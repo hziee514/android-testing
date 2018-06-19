@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">单元测试演示</string>
+
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+
+    <string name="hell_world">Hello world!</string>
+</resources>

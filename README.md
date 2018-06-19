@@ -1,2 +1,3 @@
 # android-testing
-android unit testing demo
+
+https://www.jianshu.com/p/2df3b519f085
